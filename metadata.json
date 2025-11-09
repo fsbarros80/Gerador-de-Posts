@@ -1,0 +1,5 @@
+{
+  "name": "Gerador de Conteúdo de Mídia Social com IA",
+  "description": "Um gerador de conteúdo de mídia social multiplataforma. Os usuários inserem uma ideia e um tom, e o aplicativo gera rascunhos de posts para LinkedIn, Twitter/X e Instagram, juntamente com uma imagem exclusiva adaptada para cada plataforma.",
+  "requestFramePermissions": []
+}
